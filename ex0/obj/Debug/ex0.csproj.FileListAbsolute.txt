@@ -1,0 +1,7 @@
+C:\Users\Elisabete\Dropbox\Aeo_22_23\12º AIB\Paulo\Unidade 1 - Materiais\Exercicios Resolvidos\ex0\ex0\bin\Debug\ex0.exe.config
+C:\Users\Elisabete\Dropbox\Aeo_22_23\12º AIB\Paulo\Unidade 1 - Materiais\Exercicios Resolvidos\ex0\ex0\bin\Debug\ex0.exe
+C:\Users\Elisabete\Dropbox\Aeo_22_23\12º AIB\Paulo\Unidade 1 - Materiais\Exercicios Resolvidos\ex0\ex0\bin\Debug\ex0.pdb
+C:\Users\Elisabete\Dropbox\Aeo_22_23\12º AIB\Paulo\Unidade 1 - Materiais\Exercicios Resolvidos\ex0\ex0\obj\Debug\ex0.csprojAssemblyReference.cache
+C:\Users\Elisabete\Dropbox\Aeo_22_23\12º AIB\Paulo\Unidade 1 - Materiais\Exercicios Resolvidos\ex0\ex0\obj\Debug\ex0.csproj.CoreCompileInputs.cache
+C:\Users\Elisabete\Dropbox\Aeo_22_23\12º AIB\Paulo\Unidade 1 - Materiais\Exercicios Resolvidos\ex0\ex0\obj\Debug\ex0.exe
+C:\Users\Elisabete\Dropbox\Aeo_22_23\12º AIB\Paulo\Unidade 1 - Materiais\Exercicios Resolvidos\ex0\ex0\obj\Debug\ex0.pdb
