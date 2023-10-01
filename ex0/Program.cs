@@ -13,7 +13,7 @@ namespace ex0
 
             //ex0
             //nome:Prof
-            //04-10-2022
+            //02-10-2023
             double x = 5.0;
             Console.WriteLine(x);
             Console.WriteLine(7.0);
